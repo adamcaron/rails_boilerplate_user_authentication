@@ -1,5 +1,7 @@
 # Little Red Book of Individual Freedom
 
+Production URL: [http://little-red-book.herokuapp.com](http://little-red-book.herokuapp.com)
+
 This app empowers mindfulness practitioners to keep track of daily vow commitments.
 
 Out of a collection of vows, which can range from around five or ten, up into the hundreds, a practitioner takes a few vows (traditionally six) each day on which to focus.
